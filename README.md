@@ -11,5 +11,4 @@
 
 | S No.  | Pull Request Title                                                       | PR Number | Status |
 |----|---------------------------------------------------------------------------|-----------|--------|
-| 1  | [AI-based “Stackoverflow” community for Scheme Agents](https://github.com/kavyakapoor420/Haqdarshak-Stackoverflow-project.git) | #553
-      | Ticket completed |
+| 1  | [AI-based “Stackoverflow” community for Scheme Agents](https://github.com/kavyakapoor420/Haqdarshak-Stackoverflow-project.git) | #553| Ticket completed |
