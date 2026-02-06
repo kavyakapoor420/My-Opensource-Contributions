@@ -5,7 +5,9 @@
 | 1     | [fix(core): make password requirement descriptive](https://github.com/kestra-io/kestra/pull/13483) | #13483 | Merged |
 | 2     | [Add support for OIDC authentication](https://github.com/kavyakapoor420/AacheBugFix/pull/1) | #apache33448 | required more changes |
 | 3     | [Refactor get_start_datetime function ](https://github.com/openclimatefix/uk-pv-national-gsp-api/pull/498) | #485 | Open |
+| 4     | [Test: src/screens/Auth/VerifyEmail/VerifyEmail.tsx#7054](https://github.com/PalisadoesFoundation/talawa-admin/issues/6980) |[PR-Link](https://github.com/PalisadoesFoundation/talawa-admin/pull/7094) | closed 
 
+---
 
 ## [C4GT](https://github.com/Code4GovTech/C4GT/issues/553) Contributions
 
